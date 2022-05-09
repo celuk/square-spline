@@ -4,11 +4,11 @@
 
 % Fonksiyonu kullanirken bir x ve bir y vektorunu parametre olarak vermelisiniz.
 % Ornegin, x = [1 2 3 4 5] , y = [1 2 0 1 3] iken
-% odev2_181201047(x, y) seklinde kullanabilirsiniz.
+% square_spline(x, y) seklinde kullanabilirsiniz.
 % Bu fonksiyon daha guzel gozuksun diye katsayilar matrisini tablo seklinde
 % donuyor, eger matris olarak istenirse asagida daha detayli sekilde acikladim.
 
-function denklemkatsayilarimatrisi = odev2_181201047(xmatrisi, ymatrisi)
+function denklemkatsayilarimatrisi = square_spline(xmatrisi, ymatrisi)
 
 % Once x vektorundeki degerleri siraliyorum ve bu değerlere onceden karsilik
 % gelen y vektorundeki degerleri de karistirmamak icin x' e gore siraliyorum
