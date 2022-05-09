@@ -1,6 +1,5 @@
-% ELE 375 Odev 2 Square Spline
+% Square Spline
 % Seyyid Hikmet CELIK
-% 181201047
 % 07/03/2021
 
 % Fonksiyonu kullanirken bir x ve bir y vektorunu parametre olarak vermelisiniz.
